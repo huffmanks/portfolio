@@ -1,0 +1,125 @@
+*,
+::before,
+::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100%;
+    min-height: 100vh;
+    background-color: #1e1e1e;
+    font-family: 'Lato', sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+:focus-visible {
+    outline: none;
+}
+
+.link-bio {
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    margin: 50px 0;
+}
+
+.link-bio--header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 1.5rem;
+}
+
+.link-bio--header-link {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    border-radius: 10px;
+    overflow: hidden;
+    transition: all 0.25s ease-in-out;
+}
+
+.link-bio--header-link:hover,
+.link-bio--header-link:focus {
+    box-shadow: 0 0 5px 1px rgb(255 255 255);
+}
+
+.link-bio--header-logo img {
+    display: block;
+    width: 150px;
+    margin: 0;
+}
+
+.link-bio--links {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    width: min(350px, 100%);
+    margin-bottom: 2rem;
+}
+
+.link-bio--category {
+    color: #fff;
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 15px;
+    border-left: 3px solid white;
+    padding-left: 10px;
+}
+
+.link-bio--link {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #5b21b6;
+    color: #fff;
+    font-weight: normal;
+    text-align: center;
+    border: 1px solid transparent;
+    border-radius: 10px;
+    overflow: hidden;
+    transition: all 0.25s ease-in-out;
+}
+
+.link-bio--link:hover,
+.link-bio--link:focus {
+    color: #fff;
+    border-color: #fff;
+}
+
+.link-bio--footer {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.link-bio--footer-logo {
+    border: 2px solid transparent;
+    border-radius: 50%;
+    transition: all 0.25s ease-in-out;
+}
+
+.link-bio--footer-logo:hover,
+.link-bio--footer-logo:focus {
+    background-color: #fff;
+    border-color: #fff;
+    transform: scale(1.08);
+}
+
+.link-bio--footer-logo img {
+    display: block;
+    width: 32px;
+    margin: 0;
+}
