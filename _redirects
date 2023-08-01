@@ -1,4 +1,4 @@
-/projects/apps/interactive-comments/*  https://interactive-comments.pages.dev 200
-/projects/design/saas-dashboard/*  https://saas-dashboard-demo.pages.dev 200
 /projects/design/funflow-landing/*  https://funflow-landing-demo.pages.dev 200
+/projects/design/interactive-comments/*  https://interactive-comments.pages.dev 200
+/projects/design/saas-dashboard/*  https://saas-dashboard-demo.pages.dev 200
 /projects/* https://vanilla-projects.pages.dev/projects/:splat  200
