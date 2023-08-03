@@ -2,3 +2,7 @@
 /projects/design/interactive-comments/*  https://interactive-comments.pages.dev 200
 /projects/design/saas-dashboard/*  https://saas-dashboard-demo.pages.dev 200
 /projects/* https://projects-astro.pages.dev/projects/:splat  200
+/_astro/* https://projects-astro.pages.dev/_astro/:splat  200
+/calculator/* https://projects-astro.pages.dev/calculator/:splat  200
+/tip-calculator/* https://projects-astro.pages.dev/tip-calculator/:splat  200
+/wofford-homepage/* https://projects-astro.pages.dev/wofford-homepage/:splat  200
