@@ -1,4 +1,3 @@
-/projects/design/funflow-landing/*  https://funflow-landing-demo.pages.dev 200
 /projects/design/interactive-comments/*  https://interactive-comments.pages.dev 200
 /projects/* https://projects-astro.pages.dev/projects/:splat  200
 /* https://projects-astro.pages.dev/:splat  200
