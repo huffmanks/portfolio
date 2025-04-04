@@ -1,0 +1,56 @@
+# Todo
+
+- [ ] [Portfolio](https://github.com/huffmanks/portfolio) - Make static landing page and redirect to [other sites](https://github.com/huffmanks/projects-astro)
+	- [ ] Full stack apps
+		- [ ] [Events app](https://github.com/huffmanks/events-app)
+			- [ ] make neutral
+			- [ ] unprivate
+		- [ ] [Asset manager](https://github.com/huffmanks/inventory-app)
+			- [ ] finish
+		- [ ] [Workout plan](https://github.com/huffmanks/workout-plan)
+			- [ ] sqlite local sync, pwa
+	- [ ] Mobile apps
+		- [ ] [Video player](https://github.com/huffmanks/video-player-app)
+			- [ ] iOS compatible
+			- [ ] Fix custom player orientation and controls
+			- [ ] Attach apk binary to github releases
+		- [ ] [Recipe manager](https://github.com/huffmanks/recipe-app)
+			- [ ] finish
+	- [ ] Docs/Guides
+		- [x] [CodeShare](https://github.com/huffmanks/code-share)
+	- [x] Designs
+		- [x] [Ecommerce page](https://huffmanks.com/projects/design/ecommerce-page)
+		- [x] [Funflow landing](https://huffmanks.com/projects/design/landing-demo)
+		- [x] [SAAS dashboard](https://huffmanks.com/projects/design/saas-dashboard)
+		- [x] [Wofford homepage](https://huffmanks.com/projects/design/wofford-homepage)
+	- [ ] Tools
+		- [ ] [cpr-cli](https://github.com/huffmanks/create-project-cli)
+			- [ ] unarchive
+			- [ ] refactor to have options that run `pnpm create vite` etc.
+				- astro
+				- expo
+				- hono
+				- nextjs
+				- payloadcms
+				- svelte
+				- vite
+		- [x] [multi-qr-code-generator](https://github.com/huffmanks/multi-qr-code-generator)
+			- [x] add readme
+			- [x] make dynamic
+		- [ ] [chrome-extension](https://github.com/huffmanks/chrome-extension-toggle-dark-mode)
+			- [ ] come up with idea
+		- [ ] [pptx-generator](https://github.com/huffmanks/pptx-generator)
+			- [ ] Add readme
+			- [ ] Make dynamic
+			- [ ] Make neutral
+		- [ ] [mock-api](https://github.com/huffmanks/mock-api)
+			- [ ] add user images
+			- [ ] update readme
+			- [ ] add description
+		- [ ] [email-pdf-generator](https://github.com/huffmanks/email-pdf-vite)
+			- [ ] Fork and make neutral version
+			- [ ] add readme
+		- [x] [web tools](https://tools.huffmanks.com/)
+	- [x] Other
+		- [x] [Quiz](https://huffmanks.com/projects/apps/quiz)
+		- [x] [Weather](https://huffmanks.com/projects/apps/weather)
