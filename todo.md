@@ -9,13 +9,14 @@
 			- [ ] finish
 		- [ ] [Workout plan](https://github.com/huffmanks/workout-plan)
 			- [ ] sqlite local sync, pwa
+		- [ ] [Recipe manager](https://github.com/huffmanks/recipe-app)
+			- [ ] docker app
+			- [ ] mobile app
 	- [ ] Mobile apps
 		- [ ] [Video player](https://github.com/huffmanks/video-player-app)
 			- [ ] iOS compatible
 			- [ ] Fix custom player orientation and controls
 			- [ ] Attach apk binary to github releases
-		- [ ] [Recipe manager](https://github.com/huffmanks/recipe-app)
-			- [ ] finish
 	- [ ] Docs/Guides
 		- [x] [CodeShare](https://github.com/huffmanks/code-share)
 	- [x] Designs
