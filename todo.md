@@ -5,19 +5,21 @@
 		- [ ] [Events app](https://github.com/huffmanks/events-app)
 			- [ ] make neutral
 			- [ ] unprivate
+   - [ ] replace db with mock data using dexie
+   - [ ] make auth demo only and reload data every sign out
 		- [ ] [Asset manager](https://github.com/huffmanks/inventory-app)
 			- [ ] finish
+   - [ ] docker app
 		- [ ] [Workout plan](https://github.com/huffmanks/workout-plan)
-			- [ ] sqlite local sync, pwa
+			- [ ] pwa, turso sqlite with local sync
 		- [ ] [Recipe manager](https://github.com/huffmanks/recipe-app)
-			- [ ] docker app
+			- [ ] d1 database
 			- [ ] mobile app
 	- [ ] Mobile apps
 		- [ ] [Video player](https://github.com/huffmanks/video-player-app)
-			- [ ] iOS compatible
-			- [ ] Fix custom player orientation and controls
+			- [ ] Fix issues and add features
 			- [ ] Attach apk binary to github releases
-	- [ ] Docs/Guides
+	- [x] Docs/Guides
 		- [x] [CodeShare](https://github.com/huffmanks/code-share)
 	- [x] Designs
 		- [x] [Ecommerce page](https://huffmanks.com/projects/design/ecommerce-page)
@@ -27,14 +29,10 @@
 	- [ ] Tools
 		- [ ] [cpr-cli](https://github.com/huffmanks/create-project-cli)
 			- [ ] unarchive
-			- [ ] refactor to have options that run `pnpm create vite` etc.
-				- astro
-				- expo
-				- hono
-				- nextjs
-				- payloadcms
-				- svelte
-				- vite
+			- [ ] add readme
+   - [ ] add description
+   - [ ] update npm
+   - [ ] come up with new idea
 		- [x] [multi-qr-code-generator](https://github.com/huffmanks/multi-qr-code-generator)
 			- [x] add readme
 			- [x] make dynamic
@@ -49,8 +47,8 @@
 			- [ ] update readme
 			- [ ] add description
 		- [ ] [email-pdf-generator](https://github.com/huffmanks/email-pdf-vite)
-			- [ ] Fork and make neutral version
 			- [ ] add readme
+   - [ ] add description
 		- [x] [web tools](https://tools.huffmanks.com/)
 	- [x] Other
 		- [x] [Quiz](https://huffmanks.com/projects/apps/quiz)
