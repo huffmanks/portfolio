@@ -5,16 +5,16 @@
 		- [ ] [Events app](https://github.com/huffmanks/events-app)
 			- [ ] make neutral
 			- [ ] unprivate
-   - [ ] replace db with mock data using dexie
-   - [ ] make auth demo only and reload data every sign out
+   			- [ ] replace db with mock data using dexie
+   			- [ ] make auth demo only and reload data every sign out
 		- [ ] [Asset manager](https://github.com/huffmanks/inventory-app)
 			- [ ] finish
-   - [ ] docker app
+   			- [ ] docker app
 		- [ ] [Workout plan](https://github.com/huffmanks/workout-plan)
 			- [ ] pwa, turso sqlite with local sync
 		- [ ] [Recipe manager](https://github.com/huffmanks/recipe-app)
 			- [ ] d1 database
-			- [ ] mobile app
+			- [ ] website and mobile app
 	- [ ] Mobile apps
 		- [ ] [Video player](https://github.com/huffmanks/video-player-app)
 			- [ ] Fix issues and add features
@@ -30,9 +30,9 @@
 		- [ ] [cpr-cli](https://github.com/huffmanks/create-project-cli)
 			- [ ] unarchive
 			- [ ] add readme
-   - [ ] add description
-   - [ ] update npm
-   - [ ] make this to use my mock API repo
+		   	- [ ] add description
+		   	- [ ] update npm
+		   	- [ ] make this to use my mock API repo
 		- [x] [multi-qr-code-generator](https://github.com/huffmanks/multi-qr-code-generator)
 			- [x] add readme
 			- [x] make dynamic
@@ -46,10 +46,11 @@
 			- [ ] add user images
 			- [ ] update readme
 			- [ ] add description
-   - [ ] make npm cli
+   			- [ ] make npm cli
 		- [ ] [email-pdf-generator](https://github.com/huffmanks/email-pdf-vite)
 			- [ ] add readme
-   - [ ] add description
+   			- [ ] add description
+      			- [ ] add pdf worker 
 		- [x] [web tools](https://tools.huffmanks.com/)
 	- [x] Other
 		- [x] [Quiz](https://huffmanks.com/projects/apps/quiz)
