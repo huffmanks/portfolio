@@ -32,7 +32,7 @@
 			- [ ] add readme
    - [ ] add description
    - [ ] update npm
-   - [ ] come up with new idea
+   - [ ] make this to use my mock API repo
 		- [x] [multi-qr-code-generator](https://github.com/huffmanks/multi-qr-code-generator)
 			- [x] add readme
 			- [x] make dynamic
@@ -46,6 +46,7 @@
 			- [ ] add user images
 			- [ ] update readme
 			- [ ] add description
+   - [ ] make npm cli
 		- [ ] [email-pdf-generator](https://github.com/huffmanks/email-pdf-vite)
 			- [ ] add readme
    - [ ] add description
