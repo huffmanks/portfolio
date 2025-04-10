@@ -1,0 +1,71 @@
+@font-face {
+  font-family: "Inter";
+  src: url("../fonts/Inter-VariableFont_opsz,wght.ttf") format("truetype");
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: "Inter", ui-sans-serif, system-ui, sans-serif;
+}
+
+.scroll-mt {
+  scroll-margin-top: 90px;
+}
+
+nav.rounded-full:has(#hs-navbar-header-floating.open) {
+  border-radius: 0.5rem;
+}
+
+.nav-link {
+  padding-block: 0.125rem;
+  padding-inline: 1rem;
+  border-style: solid;
+  border-inline-start-width: 2px;
+}
+
+.nav-link:focus {
+  outline: hidden;
+}
+
+.nav-link.active {
+  border-color: oklch(0.278 0.033 256.848);
+  font-weight: 500;
+  color: oklch(0.278 0.033 256.848);
+}
+
+.dark .nav-link.active {
+  border-color: oklch(0.922 0 0);
+  color: oklch(0.922 0 0);
+}
+
+.nav-link:not(.active) {
+  border-color: #0000;
+  color: oklch(0.551 0.027 264.364);
+}
+
+.nav-link:not(.active):hover {
+  color: oklch(0.278 0.033 256.848);
+}
+
+.dark .nav-link:not(.active) {
+  color: oklch(0.708 0 0);
+}
+
+.dark .nav-link:not(.active):hover {
+  color: oklch(0.922 0 0);
+}
+
+@media (width >= 48rem) {
+  .nav-link {
+    padding-block: 0.75rem;
+    padding-inline: 0.25rem;
+    border-bottom-width: 2px;
+    border-inline-start-width: 0;
+  }
+}
