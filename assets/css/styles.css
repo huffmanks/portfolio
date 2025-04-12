@@ -13,41 +13,49 @@
 
   --brand-css: #663399;
   --brand-html: #e34f26;
-  --brand-python: #3776ab;
-  --brand-postgresql: #4169e1;
+  --brand-python-primary: #3776ab;
+  --brand-python-secondary: #fbd03e;
   --brand-typescript: #3178c6;
 
-  --brand-astro: #bc52ee;
-  --brand-expo: #1c2024;
-  --brand-expressjs: #000000;
+  --brand-astro-neutral: #fff;
+  --brand-astro-start: #d83333;
+  --brand-astro-stop: #f041ff;
   --brand-hono: #e36002;
-  --brand-nextjs: #000000;
   --brand-nodejs: #5fa04e;
   --brand-react: #61dafb;
-  --brand-react-native: #61dafb;
   --brand-svelte: #ff3e00;
   --brand-tailwindcss: #06b6d4;
-  --brand-vite: #646cff;
   --brand-zod: #3e67b1;
-  --brand-zustand: #443e38;
 
   --brand-figma: #f24e1e;
   --brand-photoshop-fill: #001e36;
   --brand-photoshop-stroke: #31a8ff;
-  --brand-premiere-pro-fill: #00005b;
-  --brand-premiere-pro-stroke: #9999ff;
+  --brand-premiere-pro-fill: #2a0634;
+  --brand-premiere-pro-stroke: #e976b9;
 
-  --brand-aws: #232f3e;
   --brand-cloudflare: #f38020;
   --brand-docker: #2496ed;
   --brand-git: #f05032;
-  --brand-google-analytics: #e37400;
+  --brand-google-analytics-primary: #f9ab00;
+  --brand-google-analytics-secondary: #e37400;
   --brand-netlify: #00c7b7;
-  --brand-vercel: #000000;
 
   --brand-wofford: #8a6e4b;
   --brand-liberty: #00083b;
   --brand-us-navy: #022a3a;
+}
+
+.light {
+  /* Brand colors */
+  --brand-astro-neutral: currentColor;
+  --brand-astro-start: currentColor;
+  --brand-astro-stop: currentColor;
+}
+
+.dark {
+  /* Brand colors */
+  --brand-liberty: currentColor;
+  --brand-us-navy: currentColor;
 }
 
 html {

@@ -4,7 +4,6 @@
 
 ## Todo
 
-- [ ] Change svg icons
 - [ ] Change logo
 - [ ] Change favicon.ico
 - [ ] Add /assets/images/og-image.png
