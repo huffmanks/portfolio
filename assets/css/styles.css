@@ -67,7 +67,7 @@ body {
 }
 
 .scroll-mt {
-  scroll-margin-top: 90px;
+  scroll-margin-top: 235px;
 }
 
 nav.rounded-full:has(#hs-navbar-header-floating.open) {
@@ -119,5 +119,9 @@ nav.rounded-full:has(#hs-navbar-header-floating.open) {
     padding-inline: 0.25rem;
     border-bottom-width: 2px;
     border-inline-start-width: 0;
+  }
+
+  .scroll-mt {
+    scroll-margin-top: 90px;
   }
 }

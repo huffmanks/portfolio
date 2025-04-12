@@ -7,7 +7,6 @@
 - [ ] Change logo
 - [ ] Change favicon.ico
 - [ ] Add /assets/images/og-image.png
-- [ ] Move theme button to navbar
 - [ ] Toggle nav link active with scroll spy
 - [ ] Update tesimonial section
 - [ ] Update projects section
