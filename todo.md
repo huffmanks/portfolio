@@ -18,6 +18,8 @@
 	- [ ] Mobile apps
 		- [ ] [Video player](https://github.com/huffmanks/video-player-app)
 			- [ ] Fix issues and add features
+   			- [ ] Add app screenshots
+      			- [ ] Update readme and description
 			- [ ] Attach apk binary to github releases
 	- [x] Docs/Guides
 		- [x] [CodeShare](https://github.com/huffmanks/code-share)
