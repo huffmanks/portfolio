@@ -49,6 +49,9 @@
 			- [ ] update readme
 			- [ ] add description
    			- [ ] make npm cli
+      			- [ ] add entities
+					- [ ] animals
+	      			- [ ] videos 
 		- [ ] [email-pdf-generator](https://github.com/huffmanks/email-pdf-vite)
 			- [ ] add readme
    			- [ ] add description
