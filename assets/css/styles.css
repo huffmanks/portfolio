@@ -125,3 +125,8 @@ nav.rounded-full:has(#hs-navbar-header-floating.open) {
     scroll-margin-top: 90px;
   }
 }
+
+/* Utils */
+.left-2 {
+  left: calc(var(--spacing) * 2);
+}
