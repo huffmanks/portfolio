@@ -47,12 +47,13 @@
    			- [ ] make npm cli
       			- [ ] add entities
 					- [ ] animals
-	      			- [ ] videos 
+					- [ ] videos
 		- [ ] [email-pdf-generator](https://github.com/huffmanks/email-pdf-vite)
 			- [ ] add readme
-   			- [ ] add description
-      			- [ ] add pdf worker 
+			- [ ] add description
+			- [ ] add pdf worker
 		- [x] [web tools](https://tools.huffmanks.com/)
+  			- [ ] text diff checker
 	- [x] Other
 		- [x] [Quiz](https://huffmanks.com/projects/apps/quiz)
 		- [x] [Weather](https://huffmanks.com/projects/apps/weather)
