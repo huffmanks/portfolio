@@ -55,7 +55,7 @@
     - [x] [web tools](https://tools.huffmanks.com/)
       - [ ] text diff checker
     - [ ] VS Code extension
-      - [ ] [text pastry](https://marketplace.visualstudio.com/items?itemName=jkjustjoshing.vscode-text-pastry) but better.
+      - [ ] [text pastry](https://github.com/jkjustjoshing/vscode-text-pastry) but better.
       - [ ] Insert date time options. unix, ISOString, etc. 
   - [x] Other
     - [x] [Quiz](https://huffmanks.com/projects/apps/quiz)
