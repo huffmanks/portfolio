@@ -16,11 +16,11 @@
       - [ ] d1 database
       - [ ] website and mobile app
   - [ ] Mobile apps
-    - [ ] [Video player](https://github.com/huffmanks/video-player-app)
-      - [ ] Fix issues and add features
-        - [ ] Add app screenshots
-        - [ ] Update readme and description
-      - [ ] Attach apk binary to github releases
+    - [x] [Video player](https://github.com/huffmanks/video-player-app)
+      - [x] Fix issues and add features
+        - [x] Add app screenshots
+        - [x] Update readme and description
+      - [x] Attach apk binary to github releases
   - [x] Docs/Guides
     - [x] [CodeShare](https://github.com/huffmanks/code-share)
   - [x] Designs
@@ -54,6 +54,9 @@
       - [ ] add pdf worker
     - [x] [web tools](https://tools.huffmanks.com/)
       - [ ] text diff checker
+    - [ ] VS Code extension
+      - [ ] [text pastry](https://marketplace.visualstudio.com/items?itemName=jkjustjoshing.vscode-text-pastry) but better.
+      - [ ] Insert date time options. unix, ISOString, etc. 
   - [x] Other
     - [x] [Quiz](https://huffmanks.com/projects/apps/quiz)
     - [x] [Weather](https://huffmanks.com/projects/apps/weather)
