@@ -50,12 +50,20 @@
   --brand-astro-neutral: currentColor;
   --brand-astro-start: currentColor;
   --brand-astro-stop: currentColor;
+  /* Buttons */
+  --btn-bg-color: var(--color-gray-800);
+  --btn-text-color: var(--color-neutral-200);
+  --btn-border-color: var(--color-gray-200);
 }
 
 .dark {
   /* Brand colors */
   --brand-liberty: currentColor;
   --brand-us-navy: currentColor;
+  /* Buttons */
+  --btn-bg-color: var(--color-neutral-200);
+  --btn-text-color: var(--color-gray-800);
+  --btn-border-color: var(--color-neutral-700);
 }
 
 html {
@@ -126,7 +134,46 @@ nav.rounded-full:has(#hs-navbar-header-floating.open) {
   }
 }
 
+/* Button */
+.btn {
+  padding: 0.25rem 0.5rem;
+  background-color: var(--btn-bg-color);
+  border-width: 1px;
+  border-style: solid;
+  border-color: transparent;
+  border-radius: 0.5rem;
+  color: var(--btn-text-color);
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.btn-outline {
+  background-color: transparent;
+  border-color: var(--btn-border-color);
+  color: var(--btn-bg-color);
+}
+
+.btn:hover,
+.btn:focus {
+  opacity: 0.8;
+}
+
+.btn-outline:hover,
+.btn-outline:focus {
+  background-color: var(--btn-bg-color);
+  border-color: transparent;
+  color: var(--btn-text-color);
+  opacity: 1;
+}
+
 /* Utils */
 .left-2 {
   left: calc(var(--spacing) * 2);
+}
+
+.line-clamp-2 {
+  overflow: hidden;
+  display: -webkit-box;
+  line-clamp: 2;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
 }
